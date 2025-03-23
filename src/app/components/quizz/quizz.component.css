@@ -2,7 +2,6 @@
    width: 80%;
    margin: auto;
    margin-top: 20px;
-   border: 3px solid black;
    padding: 10px;
 }
 
@@ -43,7 +42,7 @@
    background-color: transparent;
    border-radius: 8px;
    border: 1px solid #18ab29;
-   width: 50%;
+   width: 45%;
    display: inline-block;
    cursor: pointer;
    color: #fff;
@@ -52,7 +51,8 @@
    padding: 16px 31px;
    text-decoration: wavy;
    text-shadow: 3px 4px 3px #2f6627;
-   margin: 15px;
+   margin-bottom: 10px;
+   margin-left: 15px;
 }
 
 .btn-option:hover{
